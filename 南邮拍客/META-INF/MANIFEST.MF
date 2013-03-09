@@ -1,0 +1,261 @@
+Manifest-Version: 1.0
+Created-By: 1.0 (Android)
+
+Name: assets/www/fileload.html
+SHA1-Digest: 78Pv4NxTRAJD+I8sRNt/TL8TYQk=
+
+Name: assets/www/jquery mobile js css/jquery-loadmask-0.3/demo/example
+ .html
+SHA1-Digest: h9PP24fmCVhXzPFyCDWPeb0yun0=
+
+Name: assets/www/jquery mobile js css/images/icon-search-black.png
+SHA1-Digest: D2sg2zAlE4b87LLDpFvoZE8nl+w=
+
+Name: assets/www/phonegap getpicupload.js
+SHA1-Digest: 7o4u8BMp05wy/51fNdqS6ly0ypY=
+
+Name: assets/www/phonegap fileupload.js
+SHA1-Digest: zusG4b1/dSZyOGVOpAC7JCJXgeE=
+
+Name: assets/www/jquery mobile js css/statusbarnotification.js
+SHA1-Digest: QfXlOjMqbodFZRLA5LFku2o71g8=
+
+Name: res/xml/plugins.xml
+SHA1-Digest: uuOLlq0Bd35pUcqvUjN7d1vv33w=
+
+Name: assets/www/Untitled-2.html
+SHA1-Digest: c5qVcfQHPQ7jGUn7rkEJYP2bEd8=
+
+Name: assets/www/images/blogicon.png
+SHA1-Digest: VYfCEsgCohki812ze2CxqlMfjKk=
+
+Name: assets/www/images/facebookicon.png
+SHA1-Digest: t8tdhFMU7drS1CrujSd2/rFfqD4=
+
+Name: assets/www/jquery mobile js css/screen.css
+SHA1-Digest: yaTREObYnTlEIDXNpUdJkPAqMUs=
+
+Name: assets/www/opennew.js
+SHA1-Digest: d7SK2QjUPh0WvqoT3nKEkdjlaOY=
+
+Name: assets/www/index_2.html
+SHA1-Digest: MRoc0f6yyTH9lqhgzVUO9/fNlUI=
+
+Name: assets/www/images/loading15.gif
+SHA1-Digest: PA5Q1M7HCe+woIpIEE6WTOuLMWY=
+
+Name: assets/www/images/loading.gif
+SHA1-Digest: mFkSytmGauiZdwK7h4I9eOHmYRA=
+
+Name: assets/www/images/head_1.gif
+SHA1-Digest: az9wjpmlrmMG0p/ZOkW09SC/5Mc=
+
+Name: assets/www/images/icons-18-white.png
+SHA1-Digest: wrrkomwCisISvG0cRONw4Me53YM=
+
+Name: res/drawable-hdpi/ic_launcher.jpg
+SHA1-Digest: PzDtSJvyAMSjBW5p+M+h5G0MOdw=
+
+Name: assets/www/jquery mobile js css/jquery.mobile-1.0.1.min.js
+SHA1-Digest: CDeh7xab8f1oxgkVz+vHPuP6JkA=
+
+Name: assets/www/updata.js
+SHA1-Digest: rmm2CJg5QpwoQpPV2pLFt0sdBuE=
+
+Name: assets/www/jquery mobile js css/style.css
+SHA1-Digest: quP+QMUXOZDR7Z6X5hf/WXGZ04I=
+
+Name: assets/www/jquery mobile js css/jquery.mobile-1.1.0-rc.1.min.css
+SHA1-Digest: Tq6DrqgBYNzelj1P3WxT6ckYMuU=
+
+Name: assets/www/images/form-check-off.png
+SHA1-Digest: kmdvfYM7xJfii34S2O3WNNE8ZGw=
+
+Name: res/drawable-ldpi/nofication.png.jpg
+SHA1-Digest: 4xm+FMRWxN/mJzBiJY5P/p3ysGI=
+
+Name: assets/www/jquery mobile js css/jquery-loadmask-0.3/jquery.loadm
+ ask.min.js
+SHA1-Digest: pAQAZeBqCidjioW03PM0qHANsmk=
+
+Name: assets/www/jquery mobile js css/images/ajax-loader.gif
+SHA1-Digest: r7Wo1RXseyxOXYv8y0kPtbYDEcM=
+
+Name: assets/www/jquery mobile js css/images/icons-36-black.png
+SHA1-Digest: DGqbtw+P5PhIuHjyBMRH028+Ewk=
+
+Name: res/drawable-mdpi/nofication.png.jpg
+SHA1-Digest: 4xm+FMRWxN/mJzBiJY5P/p3ysGI=
+
+Name: assets/www/images/ajax-loader.png
+SHA1-Digest: RYPZsYmpk5Iu0IQrBPlLw6sTRgg=
+
+Name: assets/www/images/form-radio-on.png
+SHA1-Digest: k9J6xi0FDFfzbNrMmPKNXmwmHK0=
+
+Name: assets/www/jquery mobile js css/images/icons-36-white.png
+SHA1-Digest: vIWVJEKtjCzYnYP40K7owpeZbWA=
+
+Name: assets/www/jquery mobile js css/easySlider1.7.js
+SHA1-Digest: vbYeL+MTUFXuo07NFfAiKsCtt6I=
+
+Name: res/layout/main.xml
+SHA1-Digest: kLe/mxZaOi6PWPtY1Ew+fLNup6o=
+
+Name: assets/www/jquery mobile js css/njupt.min.css
+SHA1-Digest: Yduqe/+NGH4EmLLh6Jlvr5Tf4DQ=
+
+Name: assets/www/jquery mobile js css/jquery.masonry.min.js
+SHA1-Digest: 0MGZDO+srFmmZDdPtyCzmHFcOd8=
+
+Name: assets/www/jquery mobile js css/images/form-check-on.png
+SHA1-Digest: njZW1OH0QrHu6tTPnYzBPcc52og=
+
+Name: assets/www/web.html
+SHA1-Digest: 8Rlr3jsjJM/sG/bkne6fSzEoO8g=
+
+Name: assets/www/images/flickricon.png
+SHA1-Digest: nq2YMHnoBZwH2Qic/GBZlZ7rndc=
+
+Name: assets/www/version.php
+SHA1-Digest: M8kkN08cMMBw5uqRjLj6UaDrDUY=
+
+Name: assets/www/images/icon-search-black.png
+SHA1-Digest: D2sg2zAlE4b87LLDpFvoZE8nl+w=
+
+Name: assets/www/index.html
+SHA1-Digest: 5BfmVDPJ99UJ9vJjXyBCkMcJMVc=
+
+Name: assets/www/jquery mobile js css/jquery-loadmask-0.3/jquery.loadm
+ ask.js
+SHA1-Digest: 1QfUBgud1DMiqqAWIpGIHY8XLiY=
+
+Name: assets/www/jquery mobile js css/images/form-radio-off.png
+SHA1-Digest: NlYz/s5lzEhVBOK1Z5dN44/SLq4=
+
+Name: assets/www/jquery mobile js css/images/icons-18-black.png
+SHA1-Digest: 2zOURmgG7TYicOGnxfSucQo6Lxg=
+
+Name: assets/www/jquery mobile js css/jquery.mobile-1.0.1.min.css
+SHA1-Digest: SaGnUxtCTdqTjn8PaYXhJBl3YCE=
+
+Name: assets/www/jquery mobile js css/downloader.js
+SHA1-Digest: jl+rIPxlxuMp+NWbGPNI0ThZS8g=
+
+Name: assets/www/jquery mobile js css/images/ajax-loader.png
+SHA1-Digest: NQ0i8lCHscwfrHzUBOM75uVDUjg=
+
+Name: res/drawable-ldpi/ic_launcher.jpg
+SHA1-Digest: PzDtSJvyAMSjBW5p+M+h5G0MOdw=
+
+Name: assets/www/images/4e25b2416ad82.jpg
+SHA1-Digest: RIo33t7JAIxJsGpT8BVqlwiJoBQ=
+
+Name: resources.arsc
+SHA1-Digest: Oi/T2OPlDNHr4DyTRDiwmGw9yhg=
+
+Name: assets/www/jquery mobile js css/images/form-check-off.png
+SHA1-Digest: kmdvfYM7xJfii34S2O3WNNE8ZGw=
+
+Name: assets/www/jquery mobile js css/images/form-radio-on.png
+SHA1-Digest: k9J6xi0FDFfzbNrMmPKNXmwmHK0=
+
+Name: assets/www/uploadimg.js
+SHA1-Digest: uC4lCnSEy2ylPEPdnvU1BcHwurY=
+
+Name: assets/www/phonegap-1.4.1.js
+SHA1-Digest: fnYCfK/mu9/BQzAhGMNwP77+gHk=
+
+Name: assets/www/images/icons-18-black.png
+SHA1-Digest: ultKU/TdtsEBVetE4kMeDRkihKc=
+
+Name: AndroidManifest.xml
+SHA1-Digest: 3C44hCih2XlKOtdM4a6twpel124=
+
+Name: assets/www/jquery mobile js css/opengfile.js
+SHA1-Digest: yi71u2VPaysEIALYR89gmMEubwo=
+
+Name: assets/www/images/4e25b0bb0fd14.jpg
+SHA1-Digest: 6hwLkUNEKtMQ9E8QvTgwji7026g=
+
+Name: res/drawable-hdpi/nofication.png.jpg
+SHA1-Digest: 4xm+FMRWxN/mJzBiJY5P/p3ysGI=
+
+Name: assets/www/jquery mobile js css/jquery-1.7.1.min.js
+SHA1-Digest: nrmsWV6bVUTi3Hn/980tC0te9x8=
+
+Name: res/xml/cordova.xml
+SHA1-Digest: 68Uv7RoeDpbCthiAm54tzCCesPk=
+
+Name: assets/www/images/shangchuan.jpg
+SHA1-Digest: 333AoKHtFNNSRJxKTi9rJ14a8sM=
+
+Name: assets/www/images/twittericon.png
+SHA1-Digest: n16NQHy3qa3bmpP3AylcURzg6Cw=
+
+Name: assets/www/uploadpic.js
+SHA1-Digest: fIaP714BIXuv5XsofrlrRjKEQ3A=
+
+Name: res/drawable-mdpi/ic_launcher.jpg
+SHA1-Digest: PzDtSJvyAMSjBW5p+M+h5G0MOdw=
+
+Name: assets/www/comment.html
+SHA1-Digest: hew0c3984+v5WXocGhKtmdNFCD0=
+
+Name: assets/www/filesuccess.php
+SHA1-Digest: 0Uis3HELdWWooC66vtOjHU2tCnA=
+
+Name: assets/www/cordova-1.5.0.js
+SHA1-Digest: G+g69WCPiwHpfT9cps2Om/5fj3A=
+
+Name: assets/www/jquery mobile js css/jquery-loadmask-0.3/images/loadi
+ ng.gif
+SHA1-Digest: lC2P4JLBxHOvGZBnUcK+5TIqm1U=
+
+Name: assets/www/images/form-radio-off.png
+SHA1-Digest: NlYz/s5lzEhVBOK1Z5dN44/SLq4=
+
+Name: assets/www/jquery mobile js css/jquery-loadmask-0.3/jquery.loadm
+ ask.css
+SHA1-Digest: gIwxhgFlbwbSJLMU9nkFVP38wFo=
+
+Name: assets/www/images/ajax_loading.gif
+SHA1-Digest: aIfRuaQC9kp2DfX9tkRAT+0/GKg=
+
+Name: assets/www/images/form-check-on.png
+SHA1-Digest: njZW1OH0QrHu6tTPnYzBPcc52og=
+
+Name: classes.dex
+SHA1-Digest: Em6Cay9TkndF+Yb9t0PuxzSqEaM=
+
+Name: assets/www/jquery mobile js css/jquery.mobile.structure-1.1.0-rc
+ .1.min.css
+SHA1-Digest: xvv9tR29TJMy1Fs0fcuaQRzAPoM=
+
+Name: assets/www/jquery mobile js css/jquery.mobile-1.1.0.1.min.js
+SHA1-Digest: z9vfCEkwrImk3uclCDKH0f189H0=
+
+Name: assets/www/jquery mobile js css/webintent.js
+SHA1-Digest: WMmBcBjSJipyFfHjHXRjbjtf5V8=
+
+Name: assets/www/images/4e25b1d4f320d.jpg
+SHA1-Digest: g8bvjBBwzMabWBYhvxbCAaSJ3CE=
+
+Name: assets/www/jquery mobile js css/phonegap-toast.js
+SHA1-Digest: /TPXvkPf6doTWixGP4tElRWmFdE=
+
+Name: assets/www/images/icons-36-black.png
+SHA1-Digest: SXZgU+kuNgySxkZZLAbk9hhUNs8=
+
+Name: assets/www/images/icons-36-white.png
+SHA1-Digest: y5YwysJao5+0MgTpZj8Jf40njiQ=
+
+Name: assets/www/jquery mobile js css/images/icons-18-white.png
+SHA1-Digest: Sg/1e3EgtouxOiw7H+43z5uv5Xo=
+
+Name: assets/www/images/4e27e889bc241.jpg
+SHA1-Digest: kQc4wRlqvGX9mimA6TzWu66lpAo=
+
+Name: assets/www/jquery mobile js css/jquery-1.7.2.min.js
+SHA1-Digest: q80roTNI8XixcUG0RbyZ8ZF9R68=
+
